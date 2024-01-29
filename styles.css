@@ -1,0 +1,35 @@
+
+html{
+  justify-content: center;
+  text-align: center;
+  background-color: gainsboro;
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+}
+
+.d-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.dice-img{
+  width: 200px;
+}
+
+.btn{
+  margin: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+footer{
+  margin: 3rem;
+  padding-top: 2rem;
+  border-top: solid 1px black;
+}
